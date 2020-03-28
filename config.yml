@@ -10,6 +10,7 @@ params:
   systems:
     - name: Roleplay Server
       category: EvoniX Server
+      partial: Down
     - name: Development Server
       category: EvoniX Server
   dateFormat: 'January 2, 2006 at 3:04 PM'
