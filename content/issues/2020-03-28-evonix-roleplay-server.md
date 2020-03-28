@@ -9,4 +9,4 @@ affected:
   - Roleplay Server
 severity: notice
 ---
-*Closed* - We are not open this Roleplay Server yet. Please just be patient and visit our [Forum](https://forum.evonix-rp.com) for more Information.
+*On Progress* - We are not open this Roleplay Server yet. Please just be patient and visit our [Forum](https://forum.evonix-rp.com) for more Information about the server.
