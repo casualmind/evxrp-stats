@@ -13,6 +13,14 @@ params:
       partial: ''
     - name: Development Server
       category: EvoniX Server
+    - name: Main Site
+      category: Web Host
+    - name: Forums
+      category: Web Host
+    - name: LSPD Forums
+      category: Web Host
+    - name: LSFD Forums
+      category: Web Host
   dateFormat: 'January 2, 2006 at 3:04 PM'
   brand: '#0a0c0f'
   headerTextColor: white
@@ -31,6 +39,11 @@ params:
       closed: true
       description: EvoniX Roleplay server current status right over here.
       untited: true
+    - name: Web Host
+      description: >-
+        EvoniX Roleplay websites such as Landing Page, EvoniX Forum, LSPD Forum
+        & LSFD Forum.
+      closed: true
   description: >-
     We continuously monitor the status of our services and if there are any
     interruptions, a note will be posted here.
