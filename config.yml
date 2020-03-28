@@ -19,7 +19,7 @@ params:
   logo: /logo.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
-  alwaysKeepBrandColor: false
+  alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
   disrupted: '#cc4400'
