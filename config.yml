@@ -29,6 +29,7 @@ params:
     - name: EvoniX Server
       closed: true
       description: EvoniX Roleplay server current status right over here.
+      untited: true
   description: >-
     We continuously monitor the status of our services and if there are any
     interruptions, a note will be posted here.
