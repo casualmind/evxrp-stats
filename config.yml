@@ -36,14 +36,14 @@ params:
   ok: '#008000'
   categories:
     - name: EvoniX Server
-      closed: true
+      closed: false
       description: EvoniX Roleplay server current status right over here.
-      untited: true
+      untited: false
     - name: Web Host
       description: >-
         EvoniX Roleplay websites such as Landing Page, EvoniX Forum, LSPD Forum
         & LSFD Forum.
-      closed: true
+      closed: false
   description: >-
     We continuously monitor the status of our services and if there are any
     interruptions, a note will be posted here.
