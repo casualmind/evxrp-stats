@@ -25,14 +25,14 @@ params:
   brand: '#0a0c0f'
   headerTextColor: white
   logo: /logo.png
-  incidentPostsPerPage: 10
+  incidentPostsPerPage: 5
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
   disrupted: '#cc4400'
   notice: '#24478f'
-  incidentHistoryFormat: yearly
+  incidentHistoryFormat: none
   ok: '#008000'
   categories:
     - name: EvoniX Server
