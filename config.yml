@@ -7,7 +7,11 @@ params:
   disableDarkMode: false
   shortDateFormat: '15:04 — Jan 2'
   down: '#e60000'
-  systems: []
+  systems:
+    - name: EvoniX Server
+      category: Roleplay
+    - name: EvoniX Server
+      category: Development
   dateFormat: 'January 2, 2006 at 3:04 PM'
   brand: '#0a0c0f'
   headerTextColor: white
@@ -21,7 +25,13 @@ params:
   notice: '#24478f'
   incidentHistoryFormat: yearly
   ok: '#008000'
-  categories: []
+  categories:
+    - name: Roleplay
+      closed: true
+      description: EvoniX Roleplay server current status right over here.
+    - name: Development
+      description: EvoniX Roleplay Development server current status right over here.
+      closed: true
   description: >-
     We continuously monitor the status of our services and if there are any
     interruptions, a note will be posted here.
