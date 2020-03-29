@@ -27,6 +27,9 @@ params:
   logo: /logo.png
   incidentPostsPerPage: 5
   googleAnalytics: UA-00000000-1
+  customTabs:
+    - name: Support Center
+      link: 'https://support.evonix-rp.com'
   alwaysKeepBrandColor: false
   disableComplexCalculations: false
   useLogo: true
