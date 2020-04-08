@@ -14,13 +14,13 @@ params:
     - name: Development Server
       category: EvoniX Server
     - name: Main Site
-      category: Web Host
+      category: Websites
     - name: Forums
-      category: Web Host
+      category: Websites
     - name: LSPD Forums
-      category: Web Host
+      category: Websites
     - name: LSFD Forums
-      category: Web Host
+      category: Websites
     - category: UCP
       name: UCP Site
     - name: API
@@ -46,13 +46,13 @@ params:
       closed: false
       description: EvoniX Roleplay server current status right over here.
       untited: false
+    - name: UCP
+      description: EvoniX Roleplay UCP API & Site Information
     - name: Websites
       description: >-
         EvoniX Roleplay websites such as Landing Page, EvoniX Forum, LSPD Forum
         & LSFD Forum.
       closed: false
-    - name: UCP
-      description: EvoniX Roleplay UCP API & Site Information
   description: >-
     We continuously monitor the status of our services and if there are any
     interruptions, a note will be posted here.
