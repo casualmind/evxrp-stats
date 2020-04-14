@@ -2,7 +2,7 @@
 section: issue
 title: Forum Down Time
 date: 2020-04-14T16:32:40.377Z
-resolved: false
+resolved: true
 informational: false
 resolvedWhen: 2020-04-14T16:32:40.416Z
 affected:
