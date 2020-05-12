@@ -2,7 +2,7 @@
 section: issue
 title: Forums & Server Downtime
 date: 2020-05-12T22:26:55.802Z
-resolved: false
+resolved: true
 informational: false
 resolvedWhen: 2020-05-12T22:26:55.830Z
 affected:
