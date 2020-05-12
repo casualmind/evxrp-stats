@@ -1,6 +1,6 @@
 ---
 section: issue
-title: EvoniX Roleplay Server
+title: UCP Site
 date: 2020-03-28T09:41:11.155Z
 resolved: false
 informational: true
@@ -9,4 +9,4 @@ affected:
   - UCP Site
 severity: notice
 ---
-*On Progress* - We are not open this Roleplay Server yet. Please just be patient and visit our [Forum](https://forum.evonix-rp.com) for more Information about the server.
+*On Progress* - Currently on developing by our Web Developer Team. Please just be patient and visit our [Forum](https://forum.evonix-rp.com) for more Information about the server.
