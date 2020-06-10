@@ -2,9 +2,9 @@
 section: issue
 title: Maintenance Schedule
 date: 2020-06-10T09:20:00.000Z
-resolved: false
+resolved: true
 informational: true
-resolvedWhen: 2020-06-10T10:14:00.000Z
+resolvedWhen: 2020-06-10T10:00:00.000Z
 affected:
   - Roleplay Server
   - Development Server
