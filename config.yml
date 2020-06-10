@@ -2,16 +2,18 @@ title: EvoniX Roleplay Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: 'https://status.evonix-rp.com/'
+baseURL: https://status.evonix-rp.com/
 params:
   disableDarkMode: false
-  shortDateFormat: '15:04 — Jan 2'
-  down: '#e60000'
+  shortDateFormat: 15:04 — Jan 2
+  down: "#e60000"
   systems:
     - name: Roleplay Server
       category: EvoniX Server
-      partial: ''
+      partial: ""
     - name: Development Server
+      category: EvoniX Server
+    - name: Team Speak
       category: EvoniX Server
     - name: Main Site
       category: Websites
@@ -25,22 +27,22 @@ params:
       name: UCP Site
     - name: API
       category: UCP
-  dateFormat: 'January 2, 2006 at 3:04 PM'
-  brand: '#0a0c0f'
+  dateFormat: January 2, 2006 at 3:04 PM
+  brand: "#0a0c0f"
   headerTextColor: white
   logo: /img/evonix-logo.png
   incidentPostsPerPage: 5
   googleAnalytics: UA-00000000-1
   customTabs:
     - name: Support Center
-      link: 'https://support.evonix-rp.com'
+      link: https://support.evonix-rp.com
   alwaysKeepBrandColor: false
   disableComplexCalculations: false
   useLogo: true
-  disrupted: '#cc4400'
-  notice: '#24478f'
+  disrupted: "#cc4400"
+  notice: "#24478f"
   incidentHistoryFormat: none
-  ok: '#008000'
+  ok: "#008000"
   categories:
     - name: EvoniX Server
       closed: false
@@ -49,13 +51,11 @@ params:
     - name: UCP
       description: EvoniX Roleplay UCP API & Site Information
     - name: Websites
-      description: >-
-        EvoniX Roleplay websites such as Landing Page, EvoniX Forum, LSPD Forum
-        & LSFD Forum.
+      description: EvoniX Roleplay websites such as Landing Page, EvoniX Forum, LSPD
+        Forum & LSFD Forum.
       closed: false
-  description: >-
-    We continuously monitor the status of our services and if there are any
-    interruptions, a note will be posted here.
+  description: We continuously monitor the status of our services and if there are
+    any interruptions, a note will be posted here.
   useLargeHeaderDesign: false
 theme: cstate
 preserveTaxonomyNames: true
