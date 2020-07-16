@@ -1,4 +1,4 @@
-title: EvoniX Roleplay Status
+title: Status - EvoniX Roleplay
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
@@ -8,34 +8,32 @@ params:
   shortDateFormat: 15:04 — Jan 2
   down: "#e60000"
   systems:
-    - name: Roleplay Server
-      category: EvoniX Server
+    - name: Game Server - Roleplay Server
+      category: Server
       partial: ""
-    - name: Development Server
-      category: EvoniX Server
-    - name: Team Speak
-      category: EvoniX Server
-    - name: Main Site
-      category: Websites
+      description: EvoniX Roleplay game server status.
+    - category: Server
+      name: User Control Panel
+      description: UCP website status.
     - name: Forums
-      category: Websites
-    - name: LSPD Forums
-      category: Websites
-    - name: LSFD Forums
-      category: Websites
-    - category: UCP
-      name: UCP Site
-    - name: API
-      category: UCP
+      category: Server
+      description: Evonix Roleplay forums status.
+    - name: Los Santos Police Department Forums
+      category: Server
+      description: Right here about Police Department forums status.
+    - name: Los Santos Fire Department Forums
+      category: Server
+      description: Right here about Fire Department forums status.
+    - name: Legal Faction Teamspeak
+      category: Server
+      description: Legal Faction Teamspeak status.
   dateFormat: January 2, 2006 at 3:04 PM
   brand: "#0a0c0f"
   headerTextColor: white
   logo: /img/evonix-logo.png
   incidentPostsPerPage: 5
   googleAnalytics: UA-00000000-1
-  customTabs:
-    - name: Support Center
-      link: https://support.evonix-rp.com
+  customTabs: []
   alwaysKeepBrandColor: false
   disableComplexCalculations: false
   useLogo: true
@@ -44,16 +42,10 @@ params:
   incidentHistoryFormat: none
   ok: "#008000"
   categories:
-    - name: EvoniX Server
+    - name: Server
       closed: false
-      description: EvoniX Roleplay server current status right over here.
+      description: Related to all EvoniX Roleplay server including forums and ucp.
       untited: false
-    - name: UCP
-      description: EvoniX Roleplay UCP API & Site Information
-    - name: Websites
-      description: EvoniX Roleplay websites such as Landing Page, EvoniX Forum, LSPD
-        Forum & LSFD Forum.
-      closed: false
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   useLargeHeaderDesign: false
