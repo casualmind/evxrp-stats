@@ -2,7 +2,7 @@
 section: issue
 title: Website & Forum Down
 date: 2021-03-24T00:31:26.468Z
-resolved: false
+resolved: true
 informational: false
 resolvedWhen: ""
 affected:
