@@ -2,7 +2,7 @@
 section: issue
 title: Forums Downtime
 date: 2021-03-26T04:35:01.719Z
-resolved: false
+resolved: true
 informational: false
 resolvedWhen: 2021-03-26T04:35:01.779Z
 affected:
