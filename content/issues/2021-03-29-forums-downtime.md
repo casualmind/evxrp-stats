@@ -2,9 +2,9 @@
 section: issue
 title: "Forums Downtime "
 date: 2021-03-29T04:54:35.016Z
-resolved: false
+resolved: true
 informational: false
-resolvedWhen: 2021-03-29T04:54:35.063Z
+resolvedWhen: 2021-03-28T17:16:00.000Z
 affected:
   - Forums
   - Los Santos Police Department
