@@ -2,9 +2,9 @@
 section: issue
 title: Forums Down Time
 date: 2022-02-05T11:45:36.742Z
-resolved: false
+resolved: true
 informational: false
-resolvedWhen: 2020-04-14T16:32:40.416Z
+resolvedWhen: 2022-02-05T12:29:46.591Z
 affected:
   - Forums
   - Los Santos Police Department Forums
